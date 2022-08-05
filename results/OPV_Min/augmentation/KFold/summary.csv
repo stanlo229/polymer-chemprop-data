@@ -1,0 +1,2 @@
+Dataset,num_of_folds,Features,Targets,Model,r_mean,r_std,r2_mean,r2_std,mae_mean,mae_std,rmse_mean,rmse_std
+OPV_Min,5,Augmented_SMILES,calc_PCE_percent,chemprop,0.678169352197929,0.08669015131035303,0.4245369731293426,0.16713453604941078,1.7457126636387674,0.15650146685544622,2.3055162642107496,0.27984203658810675

@@ -1,0 +1,12 @@
+PS_SMILES,SD
+CCC(C)C#N.CCCCCC,3.0146834031447707
+CCC(C)C#N.c1ccccc1C,9.706511099705939
+CNCCCCCCCCCCCC(=O)OCCCCCOCCCCOCCCCC.CCOC(=O)C,13.712235186040285
+Cc7cccc(n6c(=O)c5ccc(Oc4ccc(C(C)(C)c3ccc(Oc2ccc1c(=O)n(C)c(=O)c1c2)cc3)cc4)cc5c6=O)c7.CCOC(=O)C,5.055798908547397
+Cc1ccc7c(c1)C(C)(c6ccc(n5c(=O)c4ccc(C(=O)c3ccc2c(=O)n(C)c(=O)c2c3)cc4c5=O)cc6)CC7(C)C.CCC(=O)C,10.653397155239082
+Cc1ccc7c(c1)C(C)(c6ccc(n5c(=O)c4ccc(C(=O)c3ccc2c(=O)n(C)c(=O)c2c3)cc4c5=O)cc6)CC7(C)C.CC(=O)C,10.443230457470012
+COc4ccc(S(=O)(=O)c3ccc(Oc2ccc(C(C)(C)c1ccc(C)cc1)cc2)cc3)cc4.CC(C)O,6.792751930701353
+Cc1ccc7c(c1)C(C)(c6ccc(n5c(=O)c4ccc(C(=O)c3ccc2c(=O)n(C)c(=O)c2c3)cc4c5=O)cc6)CC7(C)C.CC(C)O,10.672937204950856
+COc2ccc(S(=O)(=O)c1ccc(C)cc1)cc2.CCO,2.845235060892194
+COc2ccc(S(=O)(=O)c1ccc(C)cc1)cc2.CO,2.5251676542641075
+Cc1ccc7c(c1)C(C)(c6ccc(n5c(=O)c4ccc(C(=O)c3ccc2c(=O)n(C)c(=O)c2c3)cc4c5=O)cc6)CC7(C)C.O,9.337289273115632
